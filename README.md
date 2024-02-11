@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codrae&show_icons=true&theme=shadow_blue)&nbsp;&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codrae&hide=jupyternotebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codrae&exclude_repo=Data)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyj1379)](https://solved.ac/kyj1379/)
