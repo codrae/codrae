@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/></a>
 <a href="https://www.java.com/" target="_blank"><img src="https://img.shields.io/badge/java-F7DF1E?style=for-the-badge&logo=java&logoColor=black"/></a>
 <a href="https://soliditylang.org/" target="_blank"><img src="https://img.shields.io/badge/solidity-363636?style=for-the-badge&logo=Solidity&logoColor=black"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/></a>
+
 
 ### 📈 GitHub 통계
 
