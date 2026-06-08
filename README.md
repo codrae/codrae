@@ -57,10 +57,11 @@
 
 ### 📈 GitHub & Solved.ac
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codrae&theme=github_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codrae&theme=github_dark" />
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyj1379)](https://solved.ac/kyj1379/)
+<div align="center">
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codrae&theme=github_dark" />
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codrae&theme=github_dark" />
+  <a href="https://solved.ac/kyj1379/"><img height="150" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=kyj1379" /></a>
+</div>
 
 <!--
 원본 디자인(github-readme-stats)을 쓰고 싶다면 본인 Vercel 인스턴스를 배포한 뒤
