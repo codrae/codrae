@@ -6,7 +6,7 @@
 > 동료의 성장에 촉매가 되는 사람
 
 [![Blog](https://img.shields.io/badge/Tech%20Blog-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://co-yong.tistory.com/)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcodrae&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://github.com/codrae)
+[![Profile Views](https://komarev.com/ghpvc/?username=codrae&label=Profile%20views&color=79C83D&style=for-the-badge)](https://github.com/codrae)
 
 ---
 
@@ -57,10 +57,17 @@
 
 ### 📈 GitHub & Solved.ac
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=codrae&show_icons=true&theme=shades_of_blue)&nbsp;&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codrae&exclude_repo=Data&hide=jupyter%20notebook&layout=compact&theme=shades_of_blue)](https://github.com/codrae)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codrae&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codrae&theme=github_dark" />
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyj1379)](https://solved.ac/kyj1379/)
+
+<!--
+원본 디자인(github-readme-stats)을 쓰고 싶다면 본인 Vercel 인스턴스를 배포한 뒤
+아래 URL의 github-readme-stats.vercel.app 부분을 your-instance.vercel.app 로 교체:
+![GitHub stats](https://YOUR-INSTANCE.vercel.app/api?username=codrae&show_icons=true&theme=shades_of_blue)
+![Top Langs](https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=codrae&hide=jupyter%20notebook&layout=compact&theme=shades_of_blue)
+-->
 
 ---
 
